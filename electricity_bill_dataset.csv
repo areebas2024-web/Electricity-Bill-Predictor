@@ -1,0 +1,100 @@
+Fan,Refrigerator,AirConditioner,Television,Monitor,MotorPump,Month,City,Company,MonthlyHours,TariffRate,ElectricityBill
+16,23,2,6,1,0,10,Hyderabad,Tata Power Company Ltd.,384,8.4,3225.6
+19,22,2,3,1,0,5,Vadodara,NHPC,488,7.8,3806.4
+7,20,2,6,7,0,7,Shimla,Jyoti Structure,416,7.7,3203.2
+7,22,3,21,1,0,6,Mumbai,Power Grid Corp,475,9.2,4370
+11,23,2,11,1,0,2,Mumbai,Ratnagiri Gas and Power Pvt. Ltd. (RGPPL),457,9.2,4204.4
+13,22,0,18,1,0,6,Ratnagiri,Adani Power Ltd.,471,7.4,3485.4
+23,22,3,20,12,0,5,New Delhi,Kalpataru Power,755,8.5,6417.5
+22,23,0,21,1,0,12,New Delhi,Adani Power Ltd.,492,8.5,4182
+8,20,2,8,1,0,8,New Delhi,Orient Green,546,8.5,4641
+10,23,0,18,7,0,1,Dahej,Sterlite Power Transmission Ltd,578,7.6,4392.8
+16,22,3,14,1,0,6,Ahmedabad,Neueon Towers / Sujana Towers Ltd.,450,7.9,3555
+5,19,2,20,1,0,12,Mumbai,Sterlite Power Transmission Ltd,493,9.2,4535.6
+10,23,1,22,1,0,9,Hyderabad,KEC International,492,8.4,4132.8
+11,22,3,19,1,0,11,Ahmedabad,Indowind Energy,565,7.9,4463.5
+18,22,1,3,12,0,7,Noida,Unitech Power Transmission Ltd.,414,8.2,3394.8
+21,23,3,5,1,0,12,Nagpur,Bonfiglioli Transmission Pvt. Ltd.,594,8.9,5286.6
+9,21,3,6,1,0,2,Chennai,SJVN Ltd.,349,8.8,3071.2
+17,22,0,3,1,0,4,Dahej,Tata Power Company Ltd.,355,7.6,2698
+12,23,0,18,1,0,3,New Delhi,Neueon Towers / Sujana Towers Ltd.,467,8.5,3969.5
+13,22,1,21,12,0,11,New Delhi,"Maha Transco – Maharashtra State Electricity Transmission Co, Ltd.",646,8.5,5491
+23,23,0,15,1,0,8,Mumbai,Sterlite Power Transmission Ltd,476,9.2,4379.2
+20,22,3,7,12,0,2,Ratnagiri,L&T Transmission & Distribution,659,7.4,4876.6
+23,22,2,14,1,0,7,Faridabad,Guj Ind Power,631,8.1,5111.1
+9,22,3,3,1,0,4,Faridabad,Jyoti Structure,395,8.1,3199.5
+19,22,2,11,1,0,3,Noida,Guj Ind Power,480,8.2,3936
+19,23,0,21,1,0,12,Nagpur,Torrent Power Ltd.,678,8.9,6034.2
+22,23,2,11,1,0,8,Faridabad,Reliance Energy,664,8.1,5378.4
+7,22,2,16,1,0,8,Nagpur,GE T&D India Limited,515,8.9,4583.5
+21,22,0,19,1,0,7,Faridabad,Reliance Energy,509,8.1,4122.9
+23,22,0,17,1,0,9,Faridabad,NTPC Pvt. Ltd.,679,8.1,5499.9
+23,23,3,18,1,0,4,Hyderabad,KEC International,564,8.4,4737.6
+23,23,0,9,1,0,4,Mumbai,"Maha Transco – Maharashtra State Electricity Transmission Co, Ltd.",412,9.2,3790.4
+18,22,2,18,1,0,12,Faridabad,NTPC Pvt. Ltd.,468,8.1,3790.8
+11,23,0,20,1,0,8,Kolkata,L&T Transmission & Distribution,452,8.7,3932.4
+5,21,3,17,1,0,10,Pune,GE T&D India Limited,447,9.1,4067.7
+13,22,3,6,1,0,10,New Delhi,Sterlite Power Transmission Ltd,361,8.5,3068.5
+14,22,2,4,1,0,2,Gurgaon,Optibelt Power Transmission India Private Limited,442,8.3,3668.6
+7,20,0,18,1,0,1,Noida,Neueon Towers / Sujana Towers Ltd.,307,8.2,2517.4
+15,22,0,20,1,0,10,Noida,GE T&D India Limited,494,8.2,4050.8
+22,22,3,17,1,0,4,Pune,CESC,699,9.1,6360.9
+6,23,2,16,1,0,6,Shimla,"Maha Transco – Maharashtra State Electricity Transmission Co, Ltd.",549,7.7,4227.3
+8,17,3,5,1,0,7,Gurgaon,Ringfeder Power Transmission India Pvt. Ltd.,385,8.3,3195.5
+9,22,0,10,7,0,12,New Delhi,Orient Green,491,8.5,4173.5
+10,21,1,22,1,0,6,Dahej,Neueon Towers / Sujana Towers Ltd.,646,7.6,4909.6
+12,23,2,9,1,0,6,Nagpur,GE T&D India Limited,546,8.9,4859.4
+21,23,2,6,1,0,6,Vadodara,Reliance Power,636,7.8,4960.8
+19,22,0,10,12,0,2,Kolkata,JSW Energy Ltd.,401,8.7,3488.7
+8,22,2,8,1,0,7,Dahej,GE T&D India Limited,360,7.6,2736
+13,22,2,8,1,0,9,Vadodara,Sterlite Power Transmission Ltd,539,7.8,4204.2
+14,22,2,6,12,0,7,Navi Mumbai,Ringfeder Power Transmission India Pvt. Ltd.,577,9.3,5366.1
+5,23,3,15,1,0,5,New Delhi,Sunil Hitech Eng,673,8.5,5720.5
+5,21,0,15,1,0,10,Kolkata,JSW Energy Ltd.,443,8.7,3854.1
+11,22,1,7,1,0,11,Gurgaon,Sunil Hitech Eng,398,8.3,3303.4
+13,22,1,4,12,0,1,Navi Mumbai,Power Grid Corp,653,9.3,6072.9
+7,21,0,3,1,0,12,Hyderabad,Toshiba Transmission & Distribution Systems (India) Pvt. Ltd.,421,8.4,3536.4
+10,19,0,3,1,0,6,Chennai,NTPC Pvt. Ltd.,421,8.8,3704.8
+15,22,2,16,1,0,4,Chennai,Sterlite Power Transmission Ltd,650,8.8,5720
+18,22,2,15,1,0,6,Ahmedabad,Orient Green,484,7.9,3823.6
+22,23,2,21,1,0,6,Noida,SJVN Ltd.,737,8.2,6043.4
+18,22,2,10,1,0,2,Mumbai,Reliance Power,405,9.2,3726
+7,23,3,11,1,0,4,Hyderabad,Kalpataru Power,458,8.4,3847.2
+16,22,1,11,1,0,8,Dahej,NTPC Pvt. Ltd.,466,7.6,3541.6
+14,23,1,13,1,0,8,Hyderabad,Adani Power Ltd.,456,8.4,3830.4
+15,22,3,9,1,0,4,Mumbai,Jaiprakash Power,394,9.2,3624.8
+8,22,1,5,1,0,10,Noida,Reliance Power,263,8.2,2156.6
+10,18,2,9,1,0,7,Mumbai,Ratnagiri Gas and Power Pvt. Ltd. (RGPPL),490,9.2,4508
+8,19,2,20,1,0,12,Shimla,Reliance Energy,476,7.7,3665.2
+19,22,1,3,1,0,5,Shimla,Sterlite Power Transmission Ltd,577,7.7,4442.9
+7,23,0,17,1,0,3,Vadodara,Bonfiglioli Transmission Pvt. Ltd.,533,7.8,4157.4
+16,23,1,16,1,0,7,Navi Mumbai,Unitech Power Transmission Ltd.,495,9.3,4603.5
+8,23,0,4,1,0,8,Shimla,Jyoti Structure,399,7.7,3072.3
+12,22,0,14,12,0,10,Kolkata,KEC International,604,8.7,5254.8
+18,22,3,9,1,0,9,Kolkata,Kalpataru Power,653,8.7,5681.1
+19,23,2,14,1,0,11,Noida,Sunil Hitech Eng,512,8.2,4198.4
+7,22,2,11,7,0,8,Noida,Optibelt Power Transmission India Private Limited,468,8.2,3837.6
+19,22,3,11,1,0,4,Kolkata,Optibelt Power Transmission India Private Limited,563,8.7,4898.1
+17,23,1,12,1,0,9,Kolkata,Jyoti Structure,496,8.7,4315.2
+20,23,0,15,1,0,10,Hyderabad,TransRail Lighting,500,8.4,4200
+21,22,1,8,1,0,12,Hyderabad,Orient Green,502,8.4,4216.8
+9,23,3,14,1,0,6,Shimla,SJVN Ltd.,616,7.7,4743.2
+13,23,3,8,12,0,8,Faridabad,Neueon Towers / Sujana Towers Ltd.,589,8.1,4770.9
+7,20,2,12,7,0,6,Hyderabad,L&T Transmission & Distribution,595,8.4,4998
+9,23,3,17,7,0,9,Ahmedabad,Ringfeder Power Transmission India Pvt. Ltd.,487,7.9,3847.3
+21,22,0,9,1,0,3,Ratnagiri,SJVN Ltd.,512,7.4,3788.8
+22,22,3,9,1,0,2,Mumbai,NHPC,405,9.2,3726
+8,18,3,19,1,0,11,Hyderabad,Reliance Energy,388,8.4,3259.2
+6,22,3,10,1,0,1,Mumbai,"Maha Transco – Maharashtra State Electricity Transmission Co, Ltd.",437,9.2,4020.4
+20,23,3,5,1,0,3,New Delhi,L&T Transmission & Distribution,656,8.5,5576
+7,21,0,4,1,0,12,Hyderabad,Toshiba Transmission & Distribution Systems (India) Pvt. Ltd.,300,8.4,2520
+6,18,2,7,7,0,9,Dahej,Orient Green,523,7.6,3974.8
+14,23,2,4,1,0,7,Hyderabad,L&T Transmission & Distribution,565,8.4,4746
+17,22,1,6,1,0,6,Shimla,L&T Transmission & Distribution,561,7.7,4319.7
+20,23,3,11,1,0,7,Mumbai,Neueon Towers / Sujana Towers Ltd.,628,9.2,5777.6
+11,23,3,8,1,0,11,Noida,KEC International,560,8.2,4592
+13,22,0,7,1,0,8,Hyderabad,CESC,425,8.4,3570
+14,22,2,14,12,0,2,Vadodara,Unitech Power Transmission Ltd.,632,7.8,4929.6
+22,22,3,5,1,0,9,Pune,KEC International,560,9.1,5096
+15,23,1,13,1,0,11,Faridabad,Kalpataru Power,389,8.1,3150.9
+6,21,3,19,1,0,2,Nagpur,CESC,576,8.9,5126.4
